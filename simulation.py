@@ -180,4 +180,3 @@ def fill_home(home: Home) -> None:
 
 if __name__ == '__main__':
     simulation()
-    print("hehe")
